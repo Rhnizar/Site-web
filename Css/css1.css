@@ -1,0 +1,32 @@
+p
+{
+	color :red;
+}
+body
+{
+background-color:#92a8d1;
+}
+h1
+{
+	text-align:center;
+	color:green;
+}
+h3
+{
+	color:#00FFFF;
+}
+
+button
+{
+	position:center;
+}
+input
+{
+	width:300;
+	height:25;
+}
+h2
+{
+	color:#FFFF00;
+	text-align:center;
+}
