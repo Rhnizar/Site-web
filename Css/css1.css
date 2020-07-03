@@ -2,10 +2,7 @@ p
 {
 	color :red;
 }
-body
-{
-background-color:#92a8d1;
-}
+
 h1
 {
 	text-align:center;
@@ -13,7 +10,7 @@ h1
 }
 h3
 {
-	color:#00FFFF;
+	color:red;
 }
 
 button
@@ -22,11 +19,39 @@ button
 }
 input
 {
-	width:300;
+	width:250;
 	height:25;
 }
 h2
 {
-	color:#FFFF00;
+	color:black;
 	text-align:center;
 }
+
+fieldset
+{
+	text-align:center;
+	width:50%;
+	height:85%;
+}
+img
+{
+	text-align:center;
+	width:100px;
+	height:100px;
+}
+#per
+{
+	
+	margin-left:50%;
+	width:200;
+	height:200;
+}
+
+#aa
+{
+	width:500;
+	height:350;
+	margin-left:60%;
+}
+

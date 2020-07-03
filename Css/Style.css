@@ -7,14 +7,54 @@ h1
 h3
 {
 	text-align:center;
+	color:red;
 }
-body
+h4
 {
-	background-color:#92a8d1;
+	text-align:center;
 }
-img
+
+
+#img {
+  width: 100px;
+  height: 100px;
+  border: 1px #23282d solid; 
+}
+#ofppt
 {
-	width:350;
-	height:350;
+	width:700px;
+	height:400px;
+	text-align:center;
+	margin-right:50%;
+}
+
+#button
+{
+	text-align:center;
+	color:red;
+}
+#ident
+{
+	color:black;
+	text-align:center;
 	
 }
+#Mot
+{
+	color:black;
+	text-align:center;
+}
+input[type="text"]
+{
+	width:190
+	;
+	height:25;
+}
+fieldset
+{
+	width:855;
+	
+}
+
+
+	  
