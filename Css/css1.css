@@ -20,7 +20,12 @@ button
 input
 {
 	width:250;
-	height:25;
+	height:20;
+}
+input[type="radio"]
+{
+	width:30;
+	height:15;
 }
 h2
 {
@@ -31,8 +36,8 @@ h2
 fieldset
 {
 	text-align:center;
-	width:50%;
-	height:85%;
+	width:40%;
+	height:75%;
 }
 img
 {
@@ -43,15 +48,17 @@ img
 #per
 {
 	
-	margin-left:50%;
-	width:200;
-	height:200;
+	margin-left:60%;
+	width:250;
+	height:250;
+	margin-top:-80%;
 }
 
 #aa
 {
 	width:500;
 	height:350;
-	margin-left:60%;
+	margin-left:50%;
 }
+
 

@@ -10,9 +10,23 @@
 
  function Refuser()
  {
-	 alert("Les information Annuler");
+	alert("Les information Annuler Vous serez dirigé directement vers la page d'accueil !");
+	 
  }
- if(checkbox==true)
+ function Verifier_formulaire(formulaire)
  {
-	 alert("yes");
- }
+  if (formulaire.Passe.value=="" || formulaire.identifiant.value=="" ){
+    alert ("Attention à ne pas remplir les champs obligatoires");
+	formulaire.submit();
+  }
+  else{
+    alert ("Tous les champs obligatoires sont bons");
+  }
+}
+ 
+
+
+
+
+
+ 
